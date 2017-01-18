@@ -12,7 +12,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Vullett ERP system
+                    Vullett ERP system Version 1
                 </div>
 
                 <div class="links">
